@@ -33,7 +33,7 @@
     "build": "src/**/*.js"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.0.0",
+    "@babel/polyfill": "^7.2.5",
     "camel-case": "^3.0.0",
     "find-up": "^3.0.0",
     "param-case": "^2.1.1",
