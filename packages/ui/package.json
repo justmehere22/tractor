@@ -40,7 +40,7 @@
     "angular-local-storage": "0.2.2",
     "angular-messages": "1.6.6",
     "angular-mocks": "1.7.8",
-    "angular-sanitize": "1.6.6",
+    "angular-sanitize": "1.7.8",
     "bluebird": "2.10.2",
     "brfs": "1.4.1",
     "browser-sync": "2.9.11",
